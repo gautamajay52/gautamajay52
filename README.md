@@ -1,4 +1,4 @@
-### Hi there 👋
+### 𝕊𝕥𝕚𝕝𝕝 𝕊𝕥𝕣𝕦𝕘𝕘𝕝𝕚𝕟𝕘⁶⋅⁰...🤒 |🇮🇳
 
 <!--
 **gautamajay52/gautamajay52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
