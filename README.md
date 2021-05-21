@@ -1,4 +1,5 @@
-## Still Struggling⁶⋅⁰...🤒 |🇮🇳
+## Still Struggling⁶⋅⁰...🤒
+![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamajay52&count_private=true&theme=highcontrast&show_icons=true)
 
 <!--
 **gautamajay52/gautamajay52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
