@@ -1,4 +1,7 @@
-## Still Struggling⁶⋅⁰...🤒
+## ∆ Still Struggling⁶⋅⁰...🤒
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gautamajay52/&title=Profile%20Views)
+
 ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamajay52&count_private=true&theme=highcontrast&show_icons=true)
 
 <!--
