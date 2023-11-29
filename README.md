@@ -1,4 +1,4 @@
-## ∆ Still Struggling⁶⋅⁰...🤒
+## ∆ Sᴛɪʟ SᴛʀᴜɢɢʟɪɴGᵃᵗᵐ 🤒
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gautamajay52/&title=Profile%20Views)
 
